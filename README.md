@@ -30,8 +30,8 @@ This Frontend mentor challenge looks very simple to me at the beginning but was 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Codepen](https://codepen.io/Ilesanmiea/pen/yLKzmPV)
+- Live Site URL: [4cad](https://https://4cad.vercel.app/)
 
 ## My process
 
